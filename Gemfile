@@ -48,7 +48,7 @@ group :development, :test do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
   # make error better looking
-  gem 'better_errors', '~> 2.5', '>= 2.5.1'
+  gem 'better_errors', '~> 2.8'
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
 end
